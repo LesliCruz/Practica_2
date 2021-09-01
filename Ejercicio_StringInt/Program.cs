@@ -12,7 +12,6 @@ namespace Ejercicio_StringInt
         //Mostrar en pantalla el siguiente mensaje "Te llamas + nombre y tienes + edad años"
         static void Main(string[] args)
         {
-            int
             String nombre;
             String edad;
             Console.WriteLine("Escribe tu nombre");
