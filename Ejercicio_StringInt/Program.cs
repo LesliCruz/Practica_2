@@ -21,6 +21,7 @@ namespace Ejercicio_StringInt
             Console.WriteLine("Te llamas " + nombre + " y tienes " + edad + " años ");
             Console.WriteLine("Presione cualquier tecla para continuar");
             Console.ReadKey();
+
         }
     }
 }
